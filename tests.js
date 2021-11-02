@@ -36,7 +36,7 @@ describe("Colecciones en JS: Array", () => {
 	})
 	it("Nos permiten acceder a cada elemento del array", () => {
 
-		let fruits = ["Piña", "Manzana", "Fresa", "Melón"]
+		let fruits = ["Piña", "Manzana", "Fresa", "Melón"];
 
 		// sustituye "???" en cada caso para acceder al elemento correspondiente de la lista
 
